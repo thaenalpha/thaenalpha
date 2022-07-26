@@ -5,10 +5,15 @@
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
 - 🔭 I’m currently working on setting up a reproducible development environment
   system with [[https://github.com/NixOS/nix][Nix]] ecosystem like [[https://github.com/NixOS/nixpkgs][Nixpkgs]] and [[https://github.com/nix-community/home-manager][Home Manager]].
+
 - 🌱 I’m currently learning [[https://nixos.org][NixOS]].
+
 - 👯 I’m looking to collaborate on crafting ([[https://github.com/doomemacs/doomemacs][Doom]]) [[https://www.gnu.org/software/emacs/emacs.html][Emacs]].
+
 - 🤔 I’m looking for help with home-manager if you have examples will appreciate!
+
 - 💬 Ask me about Emacs!
+
 - 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][LinkedIn]].
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
