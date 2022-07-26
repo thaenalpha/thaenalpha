@@ -1,7 +1,7 @@
 #+author: thaenalpha
 ** Hi there 👋
 
-#+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaenalpha" align="right" /></a>
+#+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaenalpha&langs_count=4" align="right" /></a>
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
 - 🔭 I’m currently working on setting up a reproducible development environment
   system with [[https://github.com/NixOS/nix][Nix]] ecosystem like [[https://github.com/NixOS/nixpkgs][Nixpkgs]] and [[https://github.com/nix-community/home-manager][Home Manager]].
