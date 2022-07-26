@@ -1,0 +1,11 @@
+*** Hi there 👋
+
+# - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
+- 🔭 I’m currently working on setting up a reproducible development environment system with Nix ecosystem like [[github:NixOS/nixpkgs][Nixpkgs]] and [[github:nix-community/home-manager][home-manager]].
+- 🌱 I’m currently learning NixOS.
+- 👯 I’m looking to collaborate on crafting Emacs.
+- 🤔 I’m looking for help with home-manager.
+- 💬 Ask me about Emacs!
+- 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][Linkedin]].
+# - 😄 Pronouns: ...
+# - ⚡ Fun fact: ...
