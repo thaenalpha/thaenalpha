@@ -1,3 +1,4 @@
+#+author: thaenalpha
 *** Hi there 👋
 
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
@@ -9,3 +10,6 @@
 - 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][Linkedin]].
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
+#+html: <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a>
+
+#+html: <a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a>
