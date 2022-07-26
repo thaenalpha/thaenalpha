@@ -1,13 +1,14 @@
 #+author: thaenalpha
-*** Hi there 👋
+** Hi there 👋
 
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
-- 🔭 I’m currently working on setting up a reproducible development environment system with Nix ecosystem like [[github:NixOS/nixpkgs][Nixpkgs]] and [[github:nix-community/home-manager][home-manager]].
-- 🌱 I’m currently learning NixOS.
-- 👯 I’m looking to collaborate on crafting Emacs.
-- 🤔 I’m looking for help with home-manager.
+- 🔭 I’m currently working on setting up a reproducible development environment
+  system with [[https://github.com/NixOS/nix][Nix]] ecosystem like [[https://github.com/NixOS/nixpkgs][Nixpkgs]] and [[https://github.com/nix-community/home-manager][Home Manager]].
+- 🌱 I’m currently learning [[https://nixos.org][NixOS]].
+- 👯 I’m looking to collaborate on crafting ([[https://github.com/doomemacs/doomemacs][Doom]]) [[https://www.gnu.org/software/emacs/emacs.html][Emacs]].
+- 🤔 I’m looking for help with home-manager if you have examples will appreciate!
 - 💬 Ask me about Emacs!
-- 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][Linkedin]].
+- 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][LinkedIn]].
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
 #+html: <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a>
