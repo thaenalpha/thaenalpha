@@ -1,6 +1,7 @@
 #+author: thaenalpha
 ** Hi there 👋
 
+#+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaenalpha" align="right" /></a>
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
 - 🔭 I’m currently working on setting up a reproducible development environment
   system with [[https://github.com/NixOS/nix][Nix]] ecosystem like [[https://github.com/NixOS/nixpkgs][Nixpkgs]] and [[https://github.com/nix-community/home-manager][Home Manager]].
@@ -11,8 +12,12 @@
 - 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][LinkedIn]].
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
+
 #+html: <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a>
 
 #+html: <a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a>
 
 #+html: <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thaenalpha&theme=buddhism&column=-1" /></a>
+
+/NOTE: Top Languages does not indicate my skill level or anything like that; it's a
+GitHub metric to determine which languages have the most code on GitHub./
