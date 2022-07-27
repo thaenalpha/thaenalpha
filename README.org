@@ -22,4 +22,4 @@ GitHub metric to determine which languages have the most code on GitHub./
 ** 🏆 GitHub Trophies
 #+html: <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=thaenalpha&theme=buddhism&column=-1" /></a></p>
 -----
-#+html: <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+#+html: <img alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
