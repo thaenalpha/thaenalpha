@@ -15,9 +15,7 @@
 /NOTE: Top Languages does not indicate my skill level or anything like that; it's a
 GitHub metric to determine which languages have the most code on GitHub./
 
-#+html: <a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a>
-
-#+html: <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a>
+#+html: <div><a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a> <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a></div>
 
 ** 🏆 Trophies
 #+html: <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=thaenalpha&theme=buddhism&column=-1&no-frame=true" /></a></p>
