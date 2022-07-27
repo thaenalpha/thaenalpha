@@ -5,14 +5,13 @@
 - 🔭 I’m currently working on setting up a reproducible development
   environment system with [[https://github.com/NixOS/nix][Nix]] ecosystem like [[https://github.com/NixOS/nixpkgs][Nixpkgs]] and [[https://github.com/nix-community/home-manager][Home Manager]].
 - 🌱 I’m currently learning [[https://nixos.org][NixOS]].
-- 👯 I’m looking to collaborate on crafting ([[https://github.com/doomemacs/doomemacs][Doom]]) [[https://www.gnu.org/software/emacs/emacs.html][Emacs]].
+- 👯 I’m looking to collaborate on crafting [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]]
 - 🤔 I’m looking for help with home-manager if you have examples will
   appreciate!
-- 💬 Ask me about Emacs!
+- 💬 Ask me about [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]]
 - 📫 How to reach me: my [[https://twitter.com/bolidenx][twitter]] and [[https://www.linkedin.com/in/nopanun][LinkedIn]].
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
-
 /NOTE: Top Languages does not indicate my skill level or anything like that; it's a
 GitHub metric to determine which languages have the most code on GitHub./
 
