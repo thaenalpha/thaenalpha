@@ -1,19 +1,19 @@
 #+author: thaenalpha
 **** Hi there 👋
 #+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaenalpha&langs_count=4&hide_border=true" align="right" /></a>
+- 🔭 I’m currently working on set up a reproducible development environment
+  system with [[https://nixos.org][the Nix ecosystem]] like [[https://github.com/NixOS/nixpkgs][https://img.shields.io/badge/Nixpkgs--%20.svg?style=social&logo=NixOS]] and [[https://github.com/nix-community/home-manager][https://img.shields.io/badge/Home_Manager--%20.svg?style=social&logo=NixOS]].
+- 🌱 I’m currently learning [[https://nixos.org][https://img.shields.io/badge/-NixOS-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white]].
+- 👯 I’m looking to collaborate on crafting [[https://www.gnu.org/software/emacs/emacs.html][https://img.shields.io/badge/-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]] as a main driver.
+- 💬 Ask me about [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]] if you want to know more about it!
+- 📫 Reach me at: [[https://twitter.com/bolidenx][https://img.shields.io/badge/@bolidenx--%20.svg?style=social&logo=twitter]] [[https://www.linkedin.com/in/nopanun][https://img.shields.io/badge/nopanun--%20.svg?style=social&logo=linkedin]] [[https://mstdn.io/@thaenalpha][https://img.shields.io/badge/@thaenalpha--%20.svg?style=social&logo=mastodon]] [[mailto:nopanun@pm.me][https://img.shields.io/badge/pm.me--%20.svg?style=social&logo=protonmail]]
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
-- 🔭 I’m currently working on setting up a reproducible development
-  environment system with [[https://nixos.org][the Nix ecosystem]] like [[https://github.com/NixOS/nixpkgs][https://img.shields.io/badge/Nixpkgs--%20.svg?style=social&logo=NixOS]] and [[https://github.com/nix-community/home-manager][https://img.shields.io/badge/Home_Manager--%20.svg?style=social&logo=NixOS]]
-- 🌱 I’m currently learning [[https://nixos.org][https://img.shields.io/badge/-NixOS-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white]]
-- 👯 I’m looking to collaborate on crafting [[https://www.gnu.org/software/emacs/emacs.html][https://img.shields.io/badge/-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]]
-- 🤔 I’m looking for help with Home Manager if you have examples will
-  appreciate!
-- 💬 Ask me about [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]]
-- 📫 How to reach me: [[https://twitter.com/bolidenx][https://img.shields.io/badge/@bolidenx--%20.svg?style=social&logo=twitter]] [[https://www.linkedin.com/in/nopanun][https://img.shields.io/badge/Nopanun--%20.svg?style=social&logo=linkedin&co]] [[https://mstdn.io/@thaenalpha][https://img.shields.io/badge/@thaenalpha--%20.svg?style=social&logo=mastodon]]
+# - 🤔 I’m looking for help with designing a new feature for my bot.
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
-# /NOTE: Top Languages does not indicate my skill level or anything like that; it's a
-# GitHub metric to determine which languages have the most code on GitHub./
+# /NOTE: Top Languages does not indicate my skill level or anything like
+# that; it's a GitHub metric to determine which languages have the most
+# code on GitHub./
 
 #+html: <div><a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a> <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a></div>
 
