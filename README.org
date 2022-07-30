@@ -12,8 +12,8 @@
 - 📫 How to reach me: [[https://twitter.com/bolidenx][https://img.shields.io/badge/@bolidenx--%20.svg?style=social&logo=twitter]] [[https://www.linkedin.com/in/nopanun][https://img.shields.io/badge/Nopanun--%20.svg?style=social&logo=linkedin&co]] [[https://mstdn.io/@thaenalpha][https://img.shields.io/badge/@thaenalpha--%20.svg?style=social&logo=mastodon]]
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
-/NOTE: Top Languages does not indicate my skill level or anything like that; it's a
-GitHub metric to determine which languages have the most code on GitHub./
+# /NOTE: Top Languages does not indicate my skill level or anything like that; it's a
+# GitHub metric to determine which languages have the most code on GitHub./
 
 #+html: <div><a href="https://github.com/thaenalpha"><img src="https://github-readme-stats.vercel.app/api?username=thaenalpha&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /></a> <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573"><img src="https://raw.githubusercontent.com/thaenalpha/doom-emacs/screenshots/cacochan.png" align="right" /></a></div>
 
