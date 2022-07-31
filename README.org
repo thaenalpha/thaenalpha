@@ -2,10 +2,10 @@
 **** Hi there 👋
 #+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaenalpha&layout=compact&hide_border=false&langs_count=10" align="right" /></a>
 - 🔭 I’m currently working on set up my reproducible development
-  environments with [[https://nixos.org][the Nix ecosystem]] like [[https://github.com/NixOS/nixpkgs][https://img.shields.io/badge/Nixpkgs--%20.svg?style=social&logo=NixOS]] and [[https://github.com/nix-community/home-manager][https://img.shields.io/badge/Home_Manager--%20.svg?style=social&logo=NixOS]].
-- 🌱 I’m currently learning [[https://nixos.org][https://img.shields.io/badge/-NixOS-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white]].
+  environments with [[https://nixos.org][the Nix ecosystem]] like [[https://github.com/NixOS/nixpkgs][https://img.shields.io/badge/Nixpkgs--%20.svg?style=social&logo=NixOS]] and [[https://github.com/nix-community/home-manager][https://img.shields.io/badge/Home_Manager--%20.svg?style=social&logo=NixOS]]
+- 🌱 I’m currently learning: [[https://nixos.org][https://img.shields.io/badge/-NixOS-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white]]
 - 👯 I’m looking to collaborate on crafting [[https://www.gnu.org/software/emacs/emacs.html][https://img.shields.io/badge/-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]] as a main driver.
-- 💬 Ask me about [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]] if you want to know more about it!
+- 💬 Ask me about [[https://github.com/doomemacs/doomemacs][https://img.shields.io/badge/Doom-Emacs-7F5AB6.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white]] if you want to know more about it
 - 📫 Reach me at [[https://twitter.com/bolidenx][https://img.shields.io/badge/@bolidenx--%20.svg?style=social&logo=twitter]] [[https://www.linkedin.com/in/nopanun][https://img.shields.io/badge/nopanun--%20.svg?style=social&logo=linkedin]] [[https://mstdn.io/@thaenalpha][https://img.shields.io/badge/@thaenalpha--%20.svg?style=social&logo=mastodon]] [[mailto:nopanun@pm.me][https://img.shields.io/badge/-pm.me-%20.svg?style=social&logo=protonmail]]
 # - 🔭 I’m currently working on a bot that can help you find the best place to eat in your area.
 # - 🤔 I’m looking for help with designing a new feature for my bot.
